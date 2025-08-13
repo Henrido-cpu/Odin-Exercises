@@ -7,11 +7,10 @@
     font-size: 36px;
 }
 
-.oddnum.different{
+.oddnum.font-adjust{
     font-size: 24px;
 }
-#evennum4{
+#evennum4, .font-adjust{
     background-color: rgb(112, 224, 56);
-    font-size: 24px;
     font-weight:bold;
 }
