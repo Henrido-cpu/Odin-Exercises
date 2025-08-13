@@ -1,0 +1,11 @@
+.clickme, .black{
+    background-color: black;
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    color:white;
+}
+
+.yellow{
+    background-color: rgb(238, 255, 0);
+    color: black;
+}
